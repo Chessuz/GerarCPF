@@ -90,7 +90,7 @@ MaxStackSize=1048576
 ImageBase=4194304
 ExeDescription=
 [Directories]
-OutputDir=
+OutputDir=D:\Funcoes
 UnitOutputDir=
 PackageDLLOutputDir=
 PackageDCPOutputDir=
@@ -134,11 +134,12 @@ OriginalFilename=
 ProductName=
 ProductVersion=1.0.0.0
 Comments=
-[Excluded Packages]
-c:\program files (x86)\borland\delphi7\Projects\Bpl\ACBr_SATExtratoRL.bpl=ACBr - Extrato Cupom Fiscal Eletrônico SAT para Fortes Report - (http://www.projectoacbr.com.br/)
 [HistoryLists\hlDebugSourcePath]
 Count=1
 Item0=$(DELPHI)\RBuilder Pro 4\Source
 [HistoryLists\hlUnitAliases]
 Count=1
 Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+[HistoryLists\hlOutputDirectorry]
+Count=1
+Item0=D:\Funcoes
